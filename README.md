@@ -11,6 +11,7 @@ Edizione aggiornata **REV3 · 19 ottobre 2026**.
 - [Presentazione PDF](docs/GUARDIAN_Presentazione_IT.pdf)
 - [Presentazione PowerPoint](docs/GUARDIAN_Presentazione_IT.pptx)
 - [Manuale di installazione e utilizzo PDF](docs/GUARDIAN_Manuale_IT.pdf)
+- [Video di presentazione in italiano (MP4)](video/GUARDIAN_Video_IT.mp4)
 
 GUARDIAN affianca le misure ambientali all'andamento della stampa, con storico, esportazione dei dati e consultazione da PC e smartphone. Questo repository contiene esclusivamente la documentazione pubblica: firmware e progetti meccanici non sono inclusi.
 
@@ -25,6 +26,7 @@ Updated edition **REV3 · 19 October 2026**.
 - [PDF presentation](docs/GUARDIAN_Presentation_EN.pdf)
 - [PowerPoint presentation](docs/GUARDIAN_Presentation_EN.pptx)
 - [Installation and user manual PDF](docs/GUARDIAN_Manual_EN.pdf)
+- [English presentation video (MP4)](video/GUARDIAN_Video_EN.mp4)
 
 GUARDIAN brings environmental readings together with printing progress, historical data, export features and access from computers and smartphones. This repository contains public documentation only; firmware and mechanical design files are not included.
 
