@@ -1,0 +1,10 @@
+*.ino
+*.bin
+*.elf
+*.stl
+*.3mf
+*.f3d
+*.f3z
+*.step
+*.stp
+*.zip
