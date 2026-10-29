@@ -1,5 +1,12 @@
 # GUARDIAN MAKERS
 
+## Ultimi aggiornamenti / Latest updates
+
+**29 ottobre 2026:** documenti organizzati per lingua, indice download e video. Edizione documentale: **28 ottobre 2026**.
+
+**[Leggi tutte le ultime modifiche / Read the latest changes](CHANGELOG.md)**
+
+
 **[Indice documenti / Document index](docs/README.md)**
 
 **Monitoraggio ambientale per spazi maker e stampa 3D · Environmental monitoring for maker spaces and 3D printing**
