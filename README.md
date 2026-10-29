@@ -2,6 +2,10 @@
 
 ## Ultimi aggiornamenti / Latest updates
 
+**Nuova funzione: Verifica e correzioni.** Menu tecnico protetto da PIN per confrontare le letture con strumenti di riferimento, gestire le correzioni e consultare il registro tecnico. Include le operazioni dedicate alla CO2. Non equivale a una certificazione del dispositivo.
+
+**New feature: Verification and corrections.** A PIN-protected technical menu for reference comparisons, correction profiles, dedicated CO2 operations and a technical log. This does not constitute device certification.
+
 **29 ottobre 2026:** documenti organizzati per lingua, indice download e video. Edizione documentale: **28 ottobre 2026**.
 
 **[Leggi tutte le ultime modifiche / Read the latest changes](CHANGELOG.md)**
