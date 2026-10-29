@@ -1,5 +1,7 @@
 # GUARDIAN MAKERS
 
+**[Indice documenti / Document index](docs/README.md)**
+
 **Monitoraggio ambientale per spazi maker e stampa 3D · Environmental monitoring for maker spaces and 3D printing**
 
 ![GUARDIAN MAKERS](assets/GUARDIAN.png)
@@ -8,9 +10,9 @@
 
 Edizione aggiornata **28 ottobre 2026**.
 
-- [Presentazione PDF](docs/GUARDIAN_Presentazione_IT.pdf)
-- [Presentazione PowerPoint](docs/GUARDIAN_Presentazione_IT.pptx)
-- [Manuale di installazione e utilizzo PDF](docs/GUARDIAN_Manuale_IT.pdf)
+- [Presentazione PDF](docs/it/GUARDIAN_Presentazione_IT.pdf)
+- [Presentazione PowerPoint](docs/it/GUARDIAN_Presentazione_IT.pptx)
+- [Manuale di installazione e utilizzo PDF](docs/it/GUARDIAN_Manuale_IT.pdf)
 - [Video di presentazione in italiano (MP4)](video/GUARDIAN_Video_IT.mp4)
 
 GUARDIAN affianca le misure ambientali all'andamento della stampa, con storico, esportazione dei dati e consultazione da PC e smartphone. Questo repository contiene esclusivamente la documentazione pubblica: firmware e progetti meccanici non sono inclusi.
@@ -23,9 +25,9 @@ GUARDIAN è un dispositivo di monitoraggio, non uno strumento di misura professi
 
 Updated edition **28 October 2026**.
 
-- [PDF presentation](docs/GUARDIAN_Presentation_EN.pdf)
-- [PowerPoint presentation](docs/GUARDIAN_Presentation_EN.pptx)
-- [Installation and user manual PDF](docs/GUARDIAN_Manual_EN.pdf)
+- [PDF presentation](docs/en/GUARDIAN_Presentation_EN.pdf)
+- [PowerPoint presentation](docs/en/GUARDIAN_Presentation_EN.pptx)
+- [Installation and user manual PDF](docs/en/GUARDIAN_Manual_EN.pdf)
 - [English presentation video (MP4)](video/GUARDIAN_Video_EN.mp4)
 
 GUARDIAN brings environmental readings together with printing progress, historical data, export features and access from computers and smartphones. This repository contains public documentation only; firmware and mechanical design files are not included.
