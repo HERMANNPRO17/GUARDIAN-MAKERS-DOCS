@@ -1,5 +1,19 @@
 # Ultimi aggiornamenti / Latest updates
 
+## 16 novembre 2026 — PCB di alimentazione GUARDIAN POWER
+
+Completato il progetto della scheda di alimentazione dedicata **GUARDIAN POWER Rev I**, pensata per sostituire la millefori del prototipo e rendere più ordinati i collegamenti. È prevista anche una predisposizione hardware per un eventuale sensore di pressione BMP280; la relativa funzione firmware non è ancora integrata.
+
+I controlli delle regole di progetto in KiCad non hanno rilevato violazioni né collegamenti mancanti. **Attendiamo la consegna dei circuiti per verificarne montaggio e funzionamento: il collaudo fisico non è ancora stato eseguito.**
+
+Per ora manuali e presentazioni restano invariati. I file tecnici della PCB sono conservati nel repository privato e non vengono pubblicati qui.
+
+### English
+
+The dedicated **GUARDIAN POWER Rev I** power-board design is complete. It is intended to replace the prototype's perfboard and simplify wiring. It also includes a hardware provision for an optional BMP280 pressure sensor; the corresponding firmware feature has not yet been integrated.
+
+KiCad design-rule checks reported no violations or unconnected pads. **We are awaiting delivery of the boards for assembly and functional testing; physical validation is still pending.** Manuals and presentations remain unchanged. PCB design files are retained privately and are not included in this public repository.
+
 ## Novità funzionale — menu Verifica e correzioni
 
 È stata aggiunta l'area tecnica **ALTRO → MANUTENZIONE → ACCESSO TECNICO → VERIFICA E CORREZIONI**, protetta da PIN.
