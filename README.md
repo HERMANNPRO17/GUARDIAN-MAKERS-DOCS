@@ -2,6 +2,10 @@
 
 ## Ultimi aggiornamenti / Latest updates
 
+**16 novembre 2026 — GUARDIAN POWER:** progettata la PCB di alimentazione dedicata, con predisposizione per un eventuale BMP280. Attendiamo i circuiti per il collaudo fisico. Manuali e presentazioni restano invariati; i file PCB rimangono privati. [Dettagli](CHANGELOG.md).
+
+**16 November 2026 — GUARDIAN POWER:** dedicated power PCB designed, with provision for an optional BMP280. Board delivery and physical testing are pending. Manuals and presentations are unchanged; PCB files remain private. [Details](CHANGELOG.md).
+
 **Nuova funzione: Verifica e correzioni.** Menu tecnico protetto da PIN per confrontare le letture con strumenti di riferimento, gestire le correzioni e consultare il registro tecnico. Include le operazioni dedicate alla CO2. Non equivale a una certificazione del dispositivo.
 
 **New feature: Verification and corrections.** A PIN-protected technical menu for reference comparisons, correction profiles, dedicated CO2 operations and a technical log. This does not constitute device certification.
