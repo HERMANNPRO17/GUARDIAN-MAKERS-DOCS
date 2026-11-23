@@ -1,5 +1,11 @@
 # Ultimi aggiornamenti / Latest updates
 
+## 23 novembre 2026 — GUARDIAN POWER Rev J
+
+Aggiunti due fori alternativi +5 V sui connettori REAR USB e SIDE USB: passo 5,08 mm rispetto al GND, mantenendo i fori a passo 2,54 mm. Diametro dei fori di ingresso 1,3 mm. Dimensioni scheda e margini guide invariati. Controlli KiCad: 0 violazioni e 0 collegamenti mancanti. Collaudo fisico ancora da eseguire. Manuali e presentazioni invariati; file PCB conservati nel repository privato.
+
+**English:** Added alternative +5 V holes on both power inputs, 5.08 mm from GND, retaining the 2.54 mm positions. Input drill diameter: 1.3 mm. Board dimensions and guide margins unchanged. KiCad checks: no violations or unconnected pads. Physical testing is pending; manuals and presentations are unchanged. PCB files remain private.
+
 ## 16 novembre 2026 — PCB di alimentazione GUARDIAN POWER
 
 Completato il progetto della scheda di alimentazione dedicata **GUARDIAN POWER Rev I**, pensata per sostituire la millefori del prototipo e rendere più ordinati i collegamenti. È prevista anche una predisposizione hardware per un eventuale sensore di pressione BMP280; la relativa funzione firmware non è ancora integrata.
