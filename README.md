@@ -2,6 +2,10 @@
 
 ## Ultimi aggiornamenti / Latest updates
 
+**23 novembre 2026 — PCB Rev J:** aggiunti fori alternativi per morsetti di alimentazione a passo 5,08 mm, mantenendo il passo 2,54 mm. File tecnici aggiornati nel privato; collaudo fisico da eseguire. Manuali e presentazioni invariati. [Dettagli](CHANGELOG.md).
+
+**23 November 2026 — PCB Rev J:** added alternative 5.08 mm power-terminal holes, retaining the 2.54 mm positions. Technical files updated privately; physical testing pending. Manuals and presentations unchanged.
+
 **16 novembre 2026 — GUARDIAN POWER:** progettata la PCB di alimentazione dedicata, con predisposizione per un eventuale BMP280. Attendiamo i circuiti per il collaudo fisico. Manuali e presentazioni restano invariati; i file PCB rimangono privati. [Dettagli](CHANGELOG.md).
 
 **16 November 2026 — GUARDIAN POWER:** dedicated power PCB designed, with provision for an optional BMP280. Board delivery and physical testing are pending. Manuals and presentations are unchanged; PCB files remain private. [Details](CHANGELOG.md).
